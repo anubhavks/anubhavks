@@ -1,11 +1,11 @@
 * HOME
 home__social
-https://www.linkedin.com/
-https://dribbble.com/
-https://github.com/
+https://www.linkedin.com/in/anubhavks98
+https://github.com/anubhavks
+https://scholar.google.com/citations?user=Zjx67zoAAAAJ
 
 home__description
-High level experience in web design and development knowledge, producing quality work.
+PhD student in quantum information theory and quantum metrology
 
 
 * ABOUT
@@ -46,5 +46,6 @@ footer__social
 https://www.facebook.com/
 https://www.instagram.com/
 https://twitter.com/
+
 
 
